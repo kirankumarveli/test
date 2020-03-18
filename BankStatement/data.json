@@ -1,0 +1,39 @@
+[
+    {
+        "Transaction_Type": "Credit Card",
+        "Date": "05-05-2019",
+        "Transaction_ID": 87566787888,
+        "Transaction_Details": "BHARTI ARITEL LIMITED BANGALORE",
+        "Amount": 1200
+    },
+    {
+        "Transaction_Type": "Debit Card",
+        "Date": "05-05-2019",
+        "Transaction_ID": 956898765434,
+        "Transaction_Details": "DEMART BANGALORE ",
+        "Amount": 3999
+    },
+    {
+        "Transaction_Type": "Wallets",
+        "Date": "05-05-2019",
+        "Transaction_ID": 933280206453,
+        "Transaction_Details": "Google pay paid for power bill",
+        "Amount": 1500
+    },
+    {
+        "Transaction_Type": "Wallets",
+        "Date": "06-05-2019",
+        "Transaction_ID": 987234575856,
+        "Transaction_Details": "PhonePe paid for Water bill",
+        "Amount": 1000
+    },
+    {
+        "Transaction_Type": "Wallets",
+        "Date": "05-05-2019",
+        "Transaction_ID": 969723456787,
+        "Transaction_Details": "Amazon Pay paid for office rent",
+        "Amount": 30000
+    }
+]
+
+ 
