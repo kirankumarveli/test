@@ -24,6 +24,6 @@
     "serverless-http": "^2.3.0",
     "serverless-offline": "^5.12.1",
     "url": "^0.11.0",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
